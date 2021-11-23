@@ -10,7 +10,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Fernando Herrera**
 
 - GitHub: [@fherrerao](https://github.com/fherrerao)
 - Twitter: [@fherrera0206](https://twitter.com/fherrera0206)
